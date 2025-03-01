@@ -1,0 +1,16 @@
+.fe{
+    background-color: black;
+    color: white;
+}
+
+.se{
+    background-color: yellow;
+
+    }
+
+    .fe,
+    .se{
+
+        font-size: 28px;
+        font-family: Helvetica,'Times New Roman', sans-serif;
+    }
